@@ -1,0 +1,17 @@
+》《New File= %NAMEF%》《
+
+=text=
+
+》《New File= %NAME%》《
+
+
+
+
+-----------------------PAGE CUT----------------------------
+%NAME% = put a file name ex. info.txt
+
+=text= = add text ex. hello this is a file that is named info.txt
+
+《NO INAPPROPRIATE WORDS AND NO 《 OR 》 SIGNS》
+
+Send email to privaterepositorys@post.com
